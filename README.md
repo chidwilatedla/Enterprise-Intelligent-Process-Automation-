@@ -1,4 +1,5 @@
-# 🏢 Enterprise Intelligent Process Automation 🚀  
+Github link:https://github.com/chidwilatedla/Enterprise-Intelligent-Process-Automation-
+#  Enterprise Intelligent Process Automation  
 An AI-driven automation system that streamlines repetitive business processes such as data entry, document processing, and customer service interactions.
 **Project Description (Enterprise Intelligent Process Automation)**  
 Enterprise Intelligent Process Automation (IPA)** is an AI-powered system designed to **automate repetitive and time-consuming business tasks** such as
@@ -21,7 +22,7 @@ This project leverages **AI & RPA (Robotic Process Automation)** to automate rou
 ✅ **Reduces manual work** using **Power Automate & AI Builder**.  
 ✅ **Cloud-based & scalable** using **Power Pages** for web-based interactions.  
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 - **Frontend**: Power Pages  
 - **Backend**: Power Automate, AI Builder  
 - **Database**: SQL Server  
